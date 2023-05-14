@@ -16,5 +16,15 @@ namespace Proyecto_erick
         {
             InitializeComponent();
         }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RegistroPorducto_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
